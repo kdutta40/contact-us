@@ -1,0 +1,43 @@
+.page{
+    display: flex;
+}
+.container{
+    max-width: 1161px;
+    width: fit-content;
+    margin-left: 198px;
+    gap: 81px;
+
+}
+.container form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.blackBtn{
+    display: flex;
+    gap: 32px;
+    margin-top: 71.5px;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    margin-top: 17px;
+    
+}
+.input input{
+    width: 440px;
+    height: 40px;
+}
+.input textarea{
+    width: 440px;
+}
+.frmBtn{
+    margin-top: 20px;
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+.frmBtn Button{
+    width: 100px;
+}
+
