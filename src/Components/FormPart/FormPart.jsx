@@ -34,7 +34,7 @@ const FormPart = () => {
       </form>
       
     </div>
-    <img src="/public/images/support.svg" alt="support image" />            
+    <img src="/images/support.svg" alt="support image" />            
   </section>
     
   );
